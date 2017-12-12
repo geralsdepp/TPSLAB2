@@ -23,3 +23,9 @@ D:\UTN\Programación.2017\C#\TPS\TP2\Esquema-TP-02\TP-02\Entidades\bin\Debug\Ent
 D:\UTN\Programación.2017\C#\TPS\TP2\Esquema-TP-02\TP-02\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
 D:\UTN\Programación.2017\C#\TPS\TP2\Esquema-TP-02\TP-02\Entidades\obj\Debug\Entidades.dll
 D:\UTN\Programación.2017\C#\TPS\TP2\Esquema-TP-02\TP-02\Entidades\obj\Debug\Entidades.pdb
+C:\Users\geraldinem_lu\Documents\RecuperatoriosTP\TP2\Esquema-TP-02\TP-02\Entidades\bin\Debug\Entidades.dll
+C:\Users\geraldinem_lu\Documents\RecuperatoriosTP\TP2\Esquema-TP-02\TP-02\Entidades\bin\Debug\Entidades.pdb
+C:\Users\geraldinem_lu\Documents\RecuperatoriosTP\TP2\Esquema-TP-02\TP-02\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\geraldinem_lu\Documents\RecuperatoriosTP\TP2\Esquema-TP-02\TP-02\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\geraldinem_lu\Documents\RecuperatoriosTP\TP2\Esquema-TP-02\TP-02\Entidades\obj\Debug\Entidades.dll
+C:\Users\geraldinem_lu\Documents\RecuperatoriosTP\TP2\Esquema-TP-02\TP-02\Entidades\obj\Debug\Entidades.pdb
